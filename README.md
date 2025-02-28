@@ -1,7 +1,7 @@
 # Karatsuba
 
 ## Descrição do Projeto
-Este projeto implementa o algoritmo de Karatsuba em Python para realizar multiplicação eficiente de números inteiros grandes. O algoritmo reduz a complexidade da multiplicação tradicional, tornando o cálculo mais rápido e eficiente.
+Este código apresenta o algoritmo de Karatsuba em Python, empregada para multiplicação ágil e eficiente de números inteiros grandes. Esse método reduz a complexidade computacional da multiplicação tradicional, proporcionando um desempenho mais rápido e eficaz.
 
 ## Como executar o projeto
 
